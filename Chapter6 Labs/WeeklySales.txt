@@ -1,0 +1,7 @@
+Sales 1 : -2.0
+Sales 1 : 10.0
+Sales 2 : 10.0
+Sales 3 : 10.0
+Sales 4 : 10.0
+Sales 5 : 10.0
+Total Sales: 50.0

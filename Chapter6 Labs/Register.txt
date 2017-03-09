@@ -1,0 +1,6 @@
+SALE RECIEPT
+Unit Price: $10.00
+Quantity: 10.0
+Subtotal: $100.00
+Tax:6.00
+Total: $106.00
